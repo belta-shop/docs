@@ -10,7 +10,7 @@ This repository contains architectural and technical decision records (ADRs) and
 
 ### Backend
 
-- _No backend documentation yet._
+- [001 - Get list from DB - Aggregate](backend/001%20-%20get%20list%20from%20db.md)
 
 ---
 
