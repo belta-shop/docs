@@ -2,7 +2,7 @@
 
 **Status:** {Proposed | Accepted | Deprecated | Superseded by [ADR-000X]}
 
-**Date:** YYYY-MM-DD
+**Date:** DD/MM/YYYY
 
 ---
 
